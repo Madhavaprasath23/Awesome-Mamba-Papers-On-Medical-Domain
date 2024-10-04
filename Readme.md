@@ -491,7 +491,7 @@ As the authors of this paper, we believe that the following are potential future
 ### Mamba v2
 <p align="center" width="100%">
   <img width="75%" src="images/Mamba-2 Architecture.png" alt="">
-  <p align="center">Figure 17 - Architecture diagram of <a href="https://arxiv.org/abs/2405.21060">Mamba v2</a> compared to Mamba v1</p>
+  <p align="center">Figure 18 - Architecture diagram of <a href="https://arxiv.org/abs/2405.21060">Mamba v2</a> compared to Mamba v1</p>
 </p>
 
 
