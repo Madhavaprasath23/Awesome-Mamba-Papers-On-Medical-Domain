@@ -5,7 +5,7 @@ This repository includes all the referenced papers, along with the sections cove
 While some papers may be repeated, our objective is to highlight the papers available in each specific sections. For the best experience, we recommend keeping this repository open alongside the topics you are currently reading. If you wish to explore further, this resource can serve as a useful tool.
 
 ## News
-Version 1 of the paper is out on arxiv (4/10/2024)[Paper](https://arxiv.org/abs/2410.02362)
+Version 1 of the paper is out on arxiv (4/10/2024) - [Paper](https://arxiv.org/abs/2410.02362)
 
 ## Table of Contents
 <details>
@@ -136,16 +136,16 @@ In this section, the papers are cited according to the survey. The survey provid
 </p>
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning2.png" alt="">
-  <p align="center">Figure 9 - Illustration of <a href="https://arxiv.org/abs/2401.10166">Selective 2D Scan</a>,<a href="https://arxiv.org/abs/2403.09977">Efficient 2D Scan</a>,<a href="https://arxiv.org/abs/2403.11423">Omnidirection Selective Scan</a>, <a href="https://arxiv.org/abs/2403.17695">3D Bidirectional Scan</a></p>
+  <p align="center">Figure 9 - Illustration of <a href="https://arxiv.org/abs/2401.10166">Selective 2D Scan</a>, <a href="https://arxiv.org/abs/2403.09977">Efficient 2D Scan</a>, <a href="https://arxiv.org/abs/2403.11423">Omnidirection Selective Scan</a>, <a href="https://arxiv.org/abs/2403.17695">3D Bidirectional Scan</a></p>
 </p>
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning3.png" alt="">
-  <p align="center">Figure 10 - Illustration of <a href="https://arxiv.org/abs/2403.07487">Hierarchical Scan</a>,<a href="https://arxiv.org/abs/2403.13802">Zigzag Scan</a>,<a href="https://arxiv.org/abs/2401.14168">Spatiotemporal Scan</a>,<a href="https://arxiv.org/abs/2403.19654">Multi-Path Scan</a>
+  <p align="center">Figure 10 - Illustration of <a href="https://arxiv.org/abs/2403.07487">Hierarchical Scan</a>, <a href="https://arxiv.org/abs/2403.13802">Zigzag Scan</a>, <a href="https://arxiv.org/abs/2401.14168">Spatiotemporal Scan</a>,<a href="https://arxiv.org/abs/2403.19654">Multi-Path Scan</a>
 
 </p>
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning4.png" alt="">
-  <p align="center">Figure 11 - Illustration of <a href="">Three Directional Scan</a>,<a href="https://arxiv.org/abs/2407.08481">BSS Scan</a>,<a href="https://arxiv.org/abs/2403.07332">Pixelwise and Patchwise Scan</a>
+  <p align="center">Figure 11 - Illustration of <a href="">Three Directional Scan</a>, <a href="https://arxiv.org/abs/2407.08481">BSS Scan</a>, <a href="https://arxiv.org/abs/2403.07332">Pixelwise and Patchwise Scan</a>
 </p>
 
   1. Bidirectional Scan (Forward and backward Scan)
