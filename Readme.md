@@ -514,7 +514,7 @@ Vision-LSTM: xLSTM as Generic Vision Backbone - [[Paper]](https://arxiv.org/abs/
 
 ## Cite the paper
 
-if you found this repo / paper use full cite them as given below thank you 
+if you found this repo / paper, cite them as given below. Thank you 
 
 ```
 @misc{bansal2024comprehensivesurveymambaarchitectures,
