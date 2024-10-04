@@ -5,7 +5,7 @@ This repository includes all the referenced papers, along with the sections cove
 While some papers may be repeated, our objective is to highlight the papers available in each specific sections. For the best experience, we recommend keeping this repository open alongside the topics you are currently reading. If you wish to explore further, this resource can serve as a useful tool.
 
 ## News
-Version 1 of the paper is out on arxiv -put date [Paper]()
+Version 1 of the paper is out on arxiv (4/10/2024)[Paper](https://arxiv.org/abs/2410.02362)
 
 ## Table of Contents
 <details>
@@ -41,7 +41,7 @@ Version 1 of the paper is out on arxiv -put date [Paper]()
 
 <p align="center" width="100%">
   <img width="75%" src="images/Mamba.png" alt="">
-  <p align="center"> <a href="https://arxiv.org/pdf/2312.00752">Figure 1 - General Illustration of Mamba models</a> </p>
+  <p align="center"> Figure 1 - General Illustration of <a href="https://arxiv.org/pdf/2312.00752">Mamba models</a> </p>
 </p>
 
 
@@ -102,28 +102,28 @@ In this section, the papers are cited according to the survey. The survey provid
 
 <p align="center" width="100%">
   <img width="75%" src="images/lkmunet.png" alt="">
-  <p align="center">Figure 3 - Architecture diagram of <a href="https://arxiv.org/abs/2403.07332">LKM-UNet</a></p>
+  <p align="center">Figure 4 - Architecture diagram of <a href="https://arxiv.org/abs/2403.07332">LKM-UNet</a></p>
 </p>
 
 (arXiv:2403.07332) LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2403.07332)  [[Code]](https://github.com/wjh892521292/LKM-UNet) ![GitHub Repo stars](https://img.shields.io/github/stars/wjh892521292/LKM-UNet)
 
 <p align="center" width="100%">
   <img width="75%" src="images/VM-Unet.png" alt="">
-  <p align="center">Figure 3 - Architecture diagram of <a href="https://arxiv.org/abs/2402.02491">VM-UNET</a></p>
+  <p align="center">Figure 5 - Architecture diagram of <a href="https://arxiv.org/abs/2402.02491">VM-UNET</a></p>
 </p>
 
-(arXiv:2402.02491) VM-UNet: Vision Mamba UNet for Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2402.02491) [[Code]](https://github.com/JCruan519/VM-UNet)
+(arXiv:2402.02491) VM-UNet: Vision Mamba UNet for Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2402.02491) [[Code]](https://github.com/JCruan519/VM-UNet) ![GitHub Repo stars](https://img.shields.io/github/stars/JCruan519/VM-UNet)
 
 <p align="center" width="100%">
   <img width="75%" src="images/VM-Unet V2.png" alt="">
-  <p align="center">Figure 3 - Architecture diagram of <a href="https://arxiv.org/abs/2403.09157">VM-UNET-V2</a></p>
+  <p align="center">Figure 6 - Architecture diagram of <a href="https://arxiv.org/abs/2403.09157">VM-UNET-V2</a></p>
 </p>
 
 (arXiv:2403.09157) VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2403.09157) [[Code]](https://github.com/nobodyplayer1/VM-UNetV2) ![GitHub Repo stars](https://img.shields.io/github/stars/nobodyplayer1/VM-UNetV2)
 
 <p align="center" width="100%">
   <img width="75%" src="images/H-vmunet.png" alt="">
-  <p align="center">Figure 3 - Architecture diagram of <a href="https://arxiv.org/abs/2403.13642">H-vmunet</a></p>
+  <p align="center">Figure 7 - Architecture diagram of <a href="https://arxiv.org/abs/2403.13642">H-vmunet</a></p>
 </p>
 
 (arXiv:2403.13642) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2403.13642)  [[Code]](https://github.com/wurenkai/H-vmunet) ![GitHub Repo stars](https://img.shields.io/github/stars/wurenkai/H-vmunet)
@@ -132,19 +132,20 @@ In this section, the papers are cited according to the survey. The survey provid
 
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning1.png" alt="">
-  <p align="center">Figure 3 - Illustration of <a href="https://arxiv.org/abs/2401.09417">Bidirectional Scan</a>,<a href="https://arxiv.org/abs/2403.17695">Continous 2D Scanning</a>,<a href="https://arxiv.org/abs/2403.09338">Local Scan</a>, <a href="https://arxiv.org/abs/2403.17695">Cross Scan</a>,<a href="https://arxiv.org/abs/2406.05992">Multi head Scan</a></p>
+  <p align="center">Figure 8 - Illustration of <a href="https://arxiv.org/abs/2401.09417">Bidirectional Scan</a>,<a href="https://arxiv.org/abs/2403.17695">Continous 2D Scanning</a>,<a href="https://arxiv.org/abs/2403.09338">Local Scan</a>, <a href="https://arxiv.org/abs/2403.17695">Cross Scan</a>,<a href="https://arxiv.org/abs/2406.05992">Multi head Scan</a></p>
 </p>
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning2.png" alt="">
-  <p align="center">Figure 3 - Illustration of <a href="https://arxiv.org/abs/2401.10166">Selective 2D Scan</a>,<a href="https://arxiv.org/abs/2403.09977">Efficient 2D Scan</a>,<a href="https://arxiv.org/abs/2403.17695">Continous 2D Scanning</a>,<a href="https://arxiv.org/abs/2403.11423">Omnidirection Selective Scan</a>, <a href="https://arxiv.org/abs/2403.17695">3D Bidirectional Scan</a></p>
+  <p align="center">Figure 9 - Illustration of <a href="https://arxiv.org/abs/2401.10166">Selective 2D Scan</a>,<a href="https://arxiv.org/abs/2403.09977">Efficient 2D Scan</a>,<a href="https://arxiv.org/abs/2403.11423">Omnidirection Selective Scan</a>, <a href="https://arxiv.org/abs/2403.17695">3D Bidirectional Scan</a></p>
 </p>
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning3.png" alt="">
-  <p align="center">Figure 3 - Traditional UNet vs Mamba based UNet</p>
+  <p align="center">Figure 10 - Illustration of <a href="https://arxiv.org/abs/2403.07487">Hierarchical Scan</a>,<a href="https://arxiv.org/abs/2403.13802">Zigzag Scan</a>,<a href="https://arxiv.org/abs/2401.14168">Spatiotemporal Scan</a>,<a href="https://arxiv.org/abs/2403.19654">Multi-Path Scan</a>
+
 </p>
 <p align="center" width="100%">
   <img width="75%" src="images/Scanning4.png" alt="">
-  <p align="center">Figure 3 - Illustration of <a href="">Three Directional Scan</a>,<a href="https://arxiv.org/abs/2407.08481">BSS Scan</a>,<a href="https://arxiv.org/abs/2403.07332">Pixelwise and Patchwise Scan</a>
+  <p align="center">Figure 11 - Illustration of <a href="">Three Directional Scan</a>,<a href="https://arxiv.org/abs/2407.08481">BSS Scan</a>,<a href="https://arxiv.org/abs/2403.07332">Pixelwise and Patchwise Scan</a>
 </p>
 
   1. Bidirectional Scan (Forward and backward Scan)
@@ -240,13 +241,16 @@ In this section, the papers are cited according to the survey. The survey provid
 
 9. Hierarchical Scan
 
-   (ECCV 24) Motion Mamba: Efficient and Long Sequence Motion Generation[[Paper]](https://arxiv.org/abs/2403.07487)      [[Code]](https://github.com/steve-zeyu-zhang/MotionMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
+   (ECCV 24) Motion Mamba: Efficient and Long Sequence Motion Generation[[Paper]](https://arxiv.org/abs/2403.07487) [[Code]](https://github.com/steve-zeyu-zhang/MotionMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
 
 10. Multi-Head Scan
 
     (arXiv:2406.05992) MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba - [[Paper]](https://arxiv.org/abs/2406.05992)  [[Code]](https://github.com/PixDeep/MHS-VM) ![GitHub Repo stars](https://img.shields.io/github/stars/PixDeep/MHS-VM)
 
-11. Other Scanning Mechanisms
+11. Zigzag Scan
+    (ECCV 2024) ZigMa: A DiT-style Zigzag Mamba Diffusion Model - [[Paper]](https://arxiv.org/abs/2403.13802) [[Code]](https://github.com/CompVis/zigma) ![GitHub Repo stars](https://img.shields.io/github/stars/CompVis/zigma)
+
+12. Other Scanning Mechanisms
 
      **TOM(Tri-orientated Spatial Mamba) - Three directional scanning** - (arXiv:2401.13560) SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2401.13560) [[Code]](https://github.com/ge-xing/SegMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/ge-xing/SegMamba)
 
@@ -260,7 +264,7 @@ In this section, the papers are cited according to the survey. The survey provid
 
 <p align="center" width="100%">
   <img width="75%" src="images/Swin-umamba.png" alt="">
-  <p align="center">Figure 3 - Architecture Diagram of <a href="https://arxiv.org/abs/2402.03302">Swin-UMamba</a></p>
+  <p align="center">Figure 12 - Architecture Diagram of <a href="https://arxiv.org/abs/2402.03302">Swin-UMamba</a></p>
 </p>
 
 (arXiv:2402.03302) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining - [[Paper]](https://arxiv.org/abs/2402.03302) [[Code]](https://github.com/JiarunLiu/Swin-UMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/JiarunLiu/Swin-UMamba)
@@ -333,7 +337,7 @@ Balancing High-performance and Lightweight: HL-UNet for 3D Cardiac Medical Image
 
 <p align="center" width="100%">
   <img width="75%" src="images/Fusion_Mamba.png" alt="">
-  <p align="center">Figure 3 - Architecture Diagram of <a href="https://arxiv.org/abs/2404.09498">Fusion Mamba</a></p>
+  <p align="center">Figure 13 - Architecture Diagram of <a href="https://arxiv.org/abs/2404.09498">Fusion Mamba</a></p>
 </p>
 
 (arXiv:2404.09498) FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba - [[Paper]](https://arxiv.org/abs/2404.09498) [[Code]](https://github.com/millieXie/FusionMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/millieXie/FusionMamba)
@@ -349,7 +353,7 @@ Balancing High-performance and Lightweight: HL-UNet for 3D Cardiac Medical Image
 
 <p align="center" width="100%">
   <img width="75%" src="images/segmentation architecture.png" alt="">
-  <p align="center">Figure 3 - General Flow of Segmentation</p>
+  <p align="center">Figure 14 - General Flow of Segmentation</p>
 </p>
 
 (arXiv:2401.13560) SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation - [[Paper]](https://arxiv.org/abs/2401.13560) [[Code]](https://github.com/ge-xing/SegMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/ge-xing/SegMamba)
@@ -388,7 +392,7 @@ Balancing High-performance and Lightweight: HL-UNet for 3D Cardiac Medical Image
 ### Medical Image Classification
 <p align="center" width="100%">
   <img width="75%" src="images/Classification architecture.png" alt="">
-  <p align="center">Figure 3 - General Flow of Classification</p>
+  <p align="center">Figure 15 - General Flow of Classification</p>
 </p>
 
 
@@ -404,7 +408,7 @@ Balancing High-performance and Lightweight: HL-UNet for 3D Cardiac Medical Image
 ### Medical Image Restoration/ Reconstruction
 <p align="center" width="100%">
   <img width="75%" src="images/Restoration architecture.png" alt="">
-  <p align="center">Figure 3 - General Flow of Restoration</p>
+  <p align="center">Figure 16 - General Flow of Restoration</p>
 </p>
 
 (arXiv:2402.18451) MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation - [[Paper]](https://arxiv.org/abs/2402.18451) [[Code]](https://github.com/lhaof/nnMamba) ![GitHub Repo stars](https://img.shields.io/github/stars/lhaof/nnMamba)
@@ -421,7 +425,7 @@ https://github.com/zzr-idam/FDVM-Net
 
 <p align="center" width="100%">
   <img width="75%" src="images/Registration architecture.png" alt="">
-  <p align="center">Figure 3 - General Flow of Registration</p>
+  <p align="center">Figure 17 - General Flow of Registration</p>
 </p>
 
 MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration - [[Paper]](https://api.semanticscholar.org/CorpusID:268041636) [[Code]](https://github.com/Guo-Stone/MambaMorph) ![GitHub Repo stars](https://img.shields.io/github/stars/Guo-Stone/MambaMorph)
@@ -448,12 +452,12 @@ MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration - 
 
 
 ## Datasets
-| Dataset | Task Performed | Targeted Area | Paper|
+| Dataset | Task Performed | Targeted Area | Paper/Dataset|
 | :---: |   :---:   | :---: | :---: |
 | BraTS2023| Segmentation | Brain |[[Paper]](https://arxiv.org/abs/2305.17033)|
 | AIIB2023| Segmentation | Lungs |[[Paper]](https://www.yanglab.fyi/challenges.html)|
 | CRC-500 datase| Segmentation |Colon, Rectum|[[Paper]](https://arxiv.org/pdf/2401.13560)|
-| ISIC2017| Segmentation | Skin |[[Paper]](https://challenge.isic-archive.com/data/#2017)|
+| ISIC2017| Segmentation | Skin |[[Download]](https://challenge.isic-archive.com/data/#2017)|
 | ISIC2018| Segmentation | Skin |[[Paper]](https://arxiv.org/abs/1902.03368)|
 | MICCAI-2023| Segmentation | Heart |[[Paper]](https://arxiv.org/pdf/2404.01082)|
 | Spleen| Segmentation | Spleen |[[Paper]](https://arxiv.org/abs/1902.09063)|
@@ -487,7 +491,7 @@ As the authors of this paper, we believe that the following are potential future
 ### Mamba v2
 <p align="center" width="100%">
   <img width="75%" src="images/Mamba-2 Architecture.png" alt="">
-  <p align="center">Figure 3 - Architecture diagram of <a href="https://arxiv.org/abs/2405.21060">Mamba v2</a> compared to Mamba v1</p>
+  <p align="center">Figure 17 - Architecture diagram of <a href="https://arxiv.org/abs/2405.21060">Mamba v2</a> compared to Mamba v1</p>
 </p>
 
 
@@ -512,5 +516,14 @@ Vision-LSTM: xLSTM as Generic Vision Backbone - [[Paper]](https://arxiv.org/abs/
 
 if you found this repo / paper use full cite them as given below thank you 
 
-`
-@put the arxiv link here`
+```
+@misc{bansal2024comprehensivesurveymambaarchitectures,
+      title={A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond}, 
+      author={Shubhi Bansal and Sreeharish A and Madhava Prasath J and Manikandan S and Sreekanth Madisetty and Mohammad Zia Ur Rehman and Chandravardhan Singh Raghaw and Gaurav Duggal and Nagendra Kumar},
+      year={2024},
+      eprint={2410.02362},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.02362}, 
+}
+```
