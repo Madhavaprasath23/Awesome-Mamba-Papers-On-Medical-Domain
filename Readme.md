@@ -512,7 +512,7 @@ Vision-LSTM: xLSTM as Generic Vision Backbone - [[Paper]](https://arxiv.org/abs/
 
 if you found this repo / paper use full cite them as given below thank you 
 
-`
+```
 @misc{bansal2024comprehensivesurveymambaarchitectures,
       title={A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond}, 
       author={Shubhi Bansal and Sreeharish A and Madhava Prasath J and Manikandan S and Sreekanth Madisetty and Mohammad Zia Ur Rehman and Chandravardhan Singh Raghaw and Gaurav Duggal and Nagendra Kumar},
@@ -522,4 +522,4 @@ if you found this repo / paper use full cite them as given below thank you
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2410.02362}, 
 }
-`
+```
