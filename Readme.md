@@ -5,7 +5,7 @@ This repository includes all the referenced papers, along with the sections cove
 While some papers may be repeated, our objective is to highlight the papers available in each specific sections. For the best experience, we recommend keeping this repository open alongside the topics you are currently reading. If you wish to explore further, this resource can serve as a useful tool.
 
 ## News
-Version 1 of the paper is out on arxiv -put date [Paper]()
+Version 1 of the paper is out on arxiv (4/10/2024)[Paper](https://arxiv.org/abs/2410.02362)
 
 ## Table of Contents
 <details>
@@ -513,4 +513,13 @@ Vision-LSTM: xLSTM as Generic Vision Backbone - [[Paper]](https://arxiv.org/abs/
 if you found this repo / paper use full cite them as given below thank you 
 
 `
-@put the arxiv link here`
+@misc{bansal2024comprehensivesurveymambaarchitectures,
+      title={A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond}, 
+      author={Shubhi Bansal and Sreeharish A and Madhava Prasath J and Manikandan S and Sreekanth Madisetty and Mohammad Zia Ur Rehman and Chandravardhan Singh Raghaw and Gaurav Duggal and Nagendra Kumar},
+      year={2024},
+      eprint={2410.02362},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.02362}, 
+}
+`
