@@ -11,7 +11,7 @@ Version 1 of the paper is out on arxiv (3/10/2024) - [Paper](https://arxiv.org/a
 <details>
 <summary><b>(click to expand)</b></summary>
 
-1. [Prequisites](#prerequisites) 
+1. [Prerequisites](#prerequisites) 
 2. [Medical Image Analysis using Mamba](#types-of-mamba-architectures)
     1. [Mamba Architectures](#types-of-mamba-architectures)
         1. [Pure Mamba](#pure-mamba---just-comprises-of-mamba-block)
