@@ -5,7 +5,7 @@ This repository includes all the referenced papers, along with the sections cove
 While some papers may be repeated, our objective is to highlight the papers available in each specific sections. For the best experience, we recommend keeping this repository open alongside the topics you are currently reading. If you wish to explore further, this resource can serve as a useful tool.
 
 ## News
-Version 1 of the paper is out on arxiv (4/10/2024) - [Paper](https://arxiv.org/abs/2410.02362)
+Version 1 of the paper is out on arxiv (3/10/2024) - [Paper](https://arxiv.org/abs/2410.02362)
 
 ## Table of Contents
 <details>
